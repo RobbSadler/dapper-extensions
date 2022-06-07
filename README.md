@@ -1,3 +1,5 @@
+Forked from original at https://github.com/bolicd/dapper-extensions
+
 # Generic Repository
 
 Generic repository based on dapper exposes most common repository methods as well as providing some additional functionality.
